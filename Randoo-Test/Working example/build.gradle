@@ -1,0 +1,85 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+   // https://mvnrepository.com/artifact/org.json/json
+compile group: 'org.json', name: 'json', version: '20200518'
+}
+
+task TCPServer(type: JavaExec) {
+  group 'TCP'
+
+  classpath = sourceSets.main.runtimeClasspath
+
+  main = 'TCP.TCPServer'
+  
+  // gradle TCPServer -Pport=8080
+  if (project.hasProperty('port')) {
+    args(project.getProperty('port'));
+  }
+}
+
+task runClient(type: JavaExec) {
+  classpath = sourceSets.main.runtimeClasspath
+  description = "Run Client"
+  main = 'TCP.TCPClient'
+  // default args
+  args 'localhost' // host
+  args '8080' // port
+  args '0' // int value to write
+  args '2' // int value to write
+}
+
+ task runServer(type: JavaExec) {
+  classpath = sourceSets.main.runtimeClasspath
+  description = "Run Server"
+  main = 'TCP.TCPServer'
+  // default args
+  args '8080' // port
+  args '10000' // sleep delay
+}
+
+//gradle TCPClient -Pport=8080 -Phost='localhost'
+task TCPClient(type: JavaExec) {
+  group 'TCP'
+
+  classpath = sourceSets.main.runtimeClasspath
+  standardInput = System.in
+
+  main = 'TCP.TCPClient'
+  
+  // gradle TCPClient -Phost=localhost -Pport=8080
+  if (project.hasProperty("host") && project.hasProperty('port')) {
+    args(project.getProperty('host'), project.getProperty('port'));
+  }
+}
+
+task UDPServer(type: JavaExec) {
+  group 'UDP'
+
+  classpath = sourceSets.main.runtimeClasspath
+
+  main = 'UDP.UDPServer'
+  
+  // gradle UDPServer -Pport=8080
+  if (project.hasProperty('port')) {
+    args(project.getProperty('port'));
+  }
+}
+
+task UDPClient(type: JavaExec) {
+  group 'UDP'
+
+  classpath = sourceSets.main.runtimeClasspath
+  standardInput = System.in
+  
+  main = 'UDP.UDPClient'
+  
+  // gradle UDPClient -Phost=localhost -Pport=8080
+  if (project.hasProperty("host") && project.hasProperty('port')) {
+    args(project.getProperty('host'), project.getProperty('port'));
+  }
+}
