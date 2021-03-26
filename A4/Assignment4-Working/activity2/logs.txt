@@ -1,0 +1,89 @@
+
++Tue Mar 23 21:28:08 MST 2021: fer - CONNECT
+)Tue Mar 23 21:29:48 MST 2021: fer - START
+'Tue Mar 23 21:29:48 MST 2021: fer - WIN
+3Tue Mar 23 21:33:29 MST 2021: for the win - CONNECT
+1Tue Mar 23 21:33:36 MST 2021: for the win - START
+/Tue Mar 23 21:33:36 MST 2021: for the win - WIN
++Tue Mar 23 21:38:24 MST 2021: ttt - CONNECT
+)Tue Mar 23 21:38:26 MST 2021: ttt - START
+'Tue Mar 23 21:38:26 MST 2021: ttt - WIN
++Tue Mar 23 21:40:43 MST 2021: fff - CONNECT
+)Tue Mar 23 21:40:46 MST 2021: fff - START
+'Tue Mar 23 21:40:46 MST 2021: fff - WIN
+-Tue Mar 23 21:48:21 MST 2021: james - CONNECT
++Tue Mar 23 21:48:26 MST 2021: james - START
+)Tue Mar 23 21:48:26 MST 2021: james - WIN
+-Tue Mar 23 22:11:53 MST 2021: tonye - CONNECT
++Tue Mar 23 22:12:18 MST 2021: tonye - START
+)Tue Mar 23 22:14:23 MST 2021: tonye - WIN
+0Tue Mar 23 22:29:15 MST 2021: Anderson - CONNECT
+.Tue Mar 23 22:29:22 MST 2021: Anderson - START
+/Tue Mar 23 22:32:07 MST 2021: antonio - CONNECT
+-Tue Mar 23 22:32:52 MST 2021: antonio - START
+-Tue Mar 23 22:35:35 MST 2021: China - CONNECT
++Tue Mar 23 22:36:03 MST 2021: China - START
+,Tue Mar 23 22:36:49 MST 2021: Anderson - WIN
+)Tue Mar 23 22:37:10 MST 2021: China - WIN
+-Tue Mar 23 22:43:42 MST 2021: China - CONNECT
++Tue Mar 23 22:44:07 MST 2021: China - START
+-Tue Mar 23 22:54:34 MST 2021: brett - CONNECT
++Tue Mar 23 22:54:55 MST 2021: brett - START
+/Tue Mar 23 22:56:15 MST 2021: Francis - CONNECT
+-Tue Mar 23 22:56:29 MST 2021: Francis - START
+)Tue Mar 23 22:58:00 MST 2021: brett - WIN
++Tue Mar 23 22:58:18 MST 2021: Francis - WIN
+/Tue Mar 23 23:20:04 MST 2021: Jamison - CONNECT
+-Tue Mar 23 23:20:16 MST 2021: Jamison - START
+:Tue Mar 23 23:21:00 MST 2021: Antonio Margaretti - CONNECT
+8Tue Mar 23 23:21:13 MST 2021: Antonio Margaretti - START
+.Tue Mar 23 23:22:08 MST 2021: Franco - CONNECT
+,Tue Mar 23 23:22:13 MST 2021: Franco - START
++Tue Mar 23 23:24:10 MST 2021: Jamison - WIN
+6Tue Mar 23 23:24:20 MST 2021: Antonio Margaretti - WIN
+*Tue Mar 23 23:24:24 MST 2021: Franco - WIN
+8Wed Mar 24 15:00:07 MST 2021: antonio banderas - CONNECT
+6Wed Mar 24 15:00:12 MST 2021: antonio banderas - START
+4Wed Mar 24 15:40:47 MST 2021: antonio banderas - WIN
+-Wed Mar 24 19:41:38 MST 2021: James - CONNECT
++Wed Mar 24 19:41:42 MST 2021: James - START
+,Wed Mar 24 19:51:08 MST 2021: fufu - CONNECT
+*Wed Mar 24 19:51:11 MST 2021: fufu - START
+3Wed Mar 24 20:56:02 MST 2021: Rina Hamiti - CONNECT
+1Wed Mar 24 20:56:26 MST 2021: Rina Hamiti - START
+4Wed Mar 24 20:59:00 MST 2021: pineapple BB - CONNECT
+2Wed Mar 24 20:59:12 MST 2021: pineapple BB - START
+/Wed Mar 24 21:18:17 MST 2021: Gorlami - CONNECT
+-Wed Mar 24 21:18:35 MST 2021: Gorlami - START
++Wed Mar 24 21:20:36 MST 2021: Gorlami - WIN
+0Thu Mar 25 15:09:37 MST 2021: Bertrand - CONNECT
+.Thu Mar 25 15:09:45 MST 2021: Bertrand - START
+,Thu Mar 25 15:11:03 MST 2021: Bertrand - WIN
+.Thu Mar 25 15:11:12 MST 2021: Bertrand - START
+,Thu Mar 25 16:16:31 MST 2021: baki - CONNECT
+*Thu Mar 25 16:16:37 MST 2021: baki - START
+(Thu Mar 25 16:17:39 MST 2021: baki - WIN
+.Thu Mar 25 16:23:33 MST 2021: tonyee - CONNECT
+,Thu Mar 25 16:23:36 MST 2021: tonyee - START
+,Thu Mar 25 16:24:16 MST 2021: fafa - CONNECT
+*Thu Mar 25 16:24:18 MST 2021: fafa - START
+*Thu Mar 25 16:26:20 MST 2021: tonyee - WIN
+(Thu Mar 25 16:26:27 MST 2021: fafa - WIN
+,Thu Mar 25 16:59:45 MST 2021: wawa - CONNECT
+,Thu Mar 25 17:00:47 MST 2021: wawa - CONNECT
+,Thu Mar 25 17:01:28 MST 2021: wawa - CONNECT
+.Thu Mar 25 17:10:09 MST 2021: franco - CONNECT
+,Thu Mar 25 17:10:11 MST 2021: franco - START
+*Thu Mar 25 17:10:26 MST 2021: franco - WIN
+,Thu Mar 25 17:10:31 MST 2021: franco - START
+*Thu Mar 25 17:11:33 MST 2021: franco - WIN
+,Thu Mar 25 17:11:40 MST 2021: franco - START
++Thu Mar 25 17:14:47 MST 2021: wow - CONNECT
+)Thu Mar 25 17:14:53 MST 2021: wow - START
+.Thu Mar 25 17:16:06 MST 2021: achiwa - CONNECT
+,Thu Mar 25 17:16:10 MST 2021: achiwa - START
++Thu Mar 25 17:30:10 MST 2021: Ded - CONNECT
+)Thu Mar 25 17:30:16 MST 2021: Ded - START
++Thu Mar 25 18:14:37 MST 2021: ret - CONNECT
+)Thu Mar 25 18:14:41 MST 2021: ret - START
+'Thu Mar 25 18:15:40 MST 2021: ret - WIN
